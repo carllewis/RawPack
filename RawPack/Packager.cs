@@ -3,7 +3,7 @@
 //   Copyright (c) Carl Lewis. All rights reserved.
 // </copyright>
 // <summary>
-//   Packages RAW files such that they may be uploaded to flickr.
+//   Packages RAW files such that they may be uploaded to Flickr.
 // </summary>
 // --------------------------------------------------------------------------------------------------------------------
 namespace RawPack
