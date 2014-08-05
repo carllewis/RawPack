@@ -1,5 +1,5 @@
 bin
 obj
-*.csjproj.user
 RawPack.v11.suo
 packages/*
+*/*.csproj.user
