@@ -8,7 +8,7 @@
 // --------------------------------------------------------------------------------------------------------------------
 namespace RawPack
 {
-    #region Using Directives
+    #region Using Directives 
 
     using System;
     using System.Collections.Generic;
