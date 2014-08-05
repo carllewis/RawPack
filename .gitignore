@@ -1,4 +1,4 @@
-bin
+**/bin/*
 obj
 RawPack.v11.suo
 packages/*
