@@ -1,7 +1,7 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
 // <copyright file="Program.cs" company="Carl Lewis">
 //   Copyright (c) Carl Lewis. All rights reserved.
-// </copyright>
+// </copyright> 
 // <summary>
 //   The program.
 // </summary>
